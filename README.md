@@ -11,4 +11,4 @@ Pytorch
 TQDM
 
 - Jupiter Notebook tricks:
-List comprehension, 
+List comprehension, array broadcasting, array concatenation, looping with zip 
